@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love Psyduck (pokemon)
 </br>
 
-![yeye](https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/b/b9/Giphy3_psyduck.gif/revision/latest/scale-to-width-down/250?cb=20191022064628)
+![yeye](https://raw.githubusercontent.com/oshriza/oshriza/main/assets/Giphy3_psyduck.webp)
 
 </br>
 </br>
