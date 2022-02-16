@@ -17,7 +17,7 @@
 </br>
 
 ## Skills 🚀
-<img hight="200" width="300" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="200" width="300" alt="GIF" align="right" src="https://raw.githubusercontent.com/oshriza/oshriza/main/assets/1936.gif">
 
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp)
@@ -42,7 +42,7 @@
 <p>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://raw.githubusercontent.com/oshriza/oshriza/main/assets/93195.gif">
 
 If you want to reach out to me about anything, or just to hangout and talk or want to game together just ping me 😉.
 
