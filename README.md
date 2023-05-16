@@ -1,13 +1,13 @@
 # Hey There👋, I'm [Oshri](https://www.linkedin.com/in/oshri-zafrani/)
-#### I'm a Frontend Developer based in Israel! I also play and develop games in my free time!
+#### Aspiring DevOps Engineer based in Israel! In my free time, I enjoy developing and playing games!
 
-- 👀 I’m interested in joining a great company with a great team - to work and develop cool apps and continue to learn more and spread my knowledge to others people.
-- 🌱 I’m currently learning Web development technology.
+- 🌱 I’m currently diving deep into DevOps concepts like Infrastructure as Code (IaC), CI/CD pipelines, containerization, and cloud computing.
+- 🔧 I'm working on setting up automated pipelines for my current projects, integrating testing and deployment into one seamless process.
 - ✨ I'm currently working on a cool nightlife app!
 - 📫 How to reach me <a href="mailto:oshriza@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/oshri-zafrani/" rel="nofollow">Linkedin</a>.
-- 💬 Ask me about anything, I am happy to help.
-- ⚡ Fact: Music 🎧 is what that drives me!!
-- ⚡ Fun fact: I love Psyduck (pokemon)
+- 💬 Ask me about anything, I am happy to help. My recent focus has been on DevOps, but I also have a background in Frontend Development.
+- ⚡ Fact: Music 🎧 is what drives me and keeps me focused and energized!!
+- ⚡ Fun fact: My favorite Pokémon is Psyduck – I can relate to its hidden potential!
 </br>
 
 ![yeye](https://raw.githubusercontent.com/oshriza/oshriza/main/assets/Giphy3_psyduck.webp)
