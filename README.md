@@ -14,7 +14,6 @@
 ![yeye](https://raw.githubusercontent.com/oshriza/oshriza/main/assets/Giphy3_psyduck.webp)
 
 </br>
-</br>
 
 ## 🚀 Skills
 <div style="display: flex; flex-wrap: wrap;">
@@ -59,14 +58,12 @@
 </div>
 </br>
 <img src="https://raw.githubusercontent.com/oshriza/oshriza/main/assets/1936.gif" alt="yeye" width="300" height="200">
-
 </br>
 
 ## 🌟 Featured Projects
 * <b><a href="https://nightly.co">Nightlife App</a></b> - Developing a new nightlife experience.
 * <b>CI/CD Pipeline Automation</b> - Implementing automated testing and deployment with GitHub Actions.
 
-</br>
 </br>
 
 ## 🤝 Contact Me
